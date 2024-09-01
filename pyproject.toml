@@ -1,0 +1,19 @@
+[project]
+name = "cs224n"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.9.2",
+    "numpy>=1.26.4",
+    "ipykernel>=6.29.5",
+    "scikit-learn>=1.5.1",
+    "gensim>=4.3.3",
+    "datasets==2.18.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
