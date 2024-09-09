@@ -31,6 +31,6 @@ dependencies = [
     "sklearn==0.0",
     "tokenizers==0.15",
     "explainaboard-client==0.0.7",
-    "zipp==3.11.0",
+    "zipp==3.19.1",
     "chardet==4.0.0",
 ]
